@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(0, 211, 157);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+p {
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+}
